@@ -1,0 +1,9 @@
+Kerbal Space Program C-5 Galaxy Mod.
+
+---
+
+This mod was originally made by rogerwang86 but is being continued by me (KerbalMissile). It is already mainly finished so some general tweaks and improvements will be the only changes.
+
+---
+
+Licensed under GPL-v3.0
