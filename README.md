@@ -10,4 +10,10 @@ https://github.com/rogerwang86/K5MilkyWay
 
 ---
 
+Dependencies:
+
+B9 Part Switch
+
+---
+
 Licensed under GPL-v3.0
